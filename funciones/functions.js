@@ -8,4 +8,5 @@
         return "Batisenal activada!";
     };
     console.log(typeof activateBatisignal);
+    var heroName = returnName();
 })();
